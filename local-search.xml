@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>yolo训练权重文件</title>
+    <link href="/2020/06/02/yolo%E8%AE%AD%E7%BB%83%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/"/>
+    <url>/2020/06/02/yolo%E8%AE%AD%E7%BB%83%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/</url>
+    
+    <content type="html"><![CDATA[<center><img src="/../images/yologo_2-1591096776746.png" srcset="/img/loading.gif" style="zoom:24%;"></center><p><br><br></p><p>环境：ubuntu 18.04</p><p>平台：darknet/yolo</p><p>工具：yolo、labelImg</p><p>文件目录：</p><pre><code class="hljs gherkin">project|<span class="hljs-string">__backup</span>|__cfg|<span class="hljs-string">__data</span>|<span class="hljs-string"></span>|__images|<span class="hljs-string">__labels</span></code></pre><br><p>yolo权重文件训练流程：</p><p>准备图片 =&gt; 标记图片 =&gt; 配置cfg文件 =&gt; 编写.name文件和.data文件  =&gt;  开始训练  =&gt;  获得权重文件</p><br><ol><li><p>准备图片</p><p>通过下载或者爬虫获取图片</p></li><li><p>标记图片</p></li></ol><ol start="3"><li>配置cfg文件</li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>yolo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>YOLO初次配置</title>
     <link href="/2020/06/02/YOLO%E5%88%9D%E6%AC%A1%E9%85%8D%E7%BD%AE/"/>
     <url>/2020/06/02/YOLO%E5%88%9D%E6%AC%A1%E9%85%8D%E7%BD%AE/</url>
